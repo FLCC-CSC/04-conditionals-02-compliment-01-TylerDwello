@@ -14,24 +14,23 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-print('====')
 compliment = input('Would you like a compliment? ')
-if compliment == 'yes':   
+
+if ('yes'):
     print('You have wonderful eyes.')
     print('Thank you for playing.')
-print('====')
+    
 compliment = input('Would you like a compliment? ')
-if compliment == 'y':   
-     print('Thank you for playing.')
-print('====')
+if ('y'):
+    print('Thank you for playing')
+
 compliment = input('Would you like a compliment? ')
-if compliment == 'Yes':   
-        print('Thank you for playing.')
-print('====')
+if ('Yes'):
+    print('Thank you for playing')
+ 
 compliment = input('Would you like a compliment? ')
-if compliment == 'no':   
-     print('Thank you for playing.')
-print('====')
+if ('no'):
+    print('Thank you for playing')
 ########### END YER CODE ABOVE THIS LINE ###########
 
     
