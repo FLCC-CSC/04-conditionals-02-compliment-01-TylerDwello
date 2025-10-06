@@ -14,15 +14,23 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+compliment = input('Would you like a compliment? ')
+if compliment == 'yes':   
+    print('You have wonderful eyes.')
+    print('Thank you for playing.')
 
 
+    compliment = input('Would you like a compliment? ')
+if compliment == 'y':   
+     print('Thank you for playing.')
 
+     compliment = input('Would you like a compliment? ')
+if compliment == 'Yes':   
+     print('Thank you for playing.')
 
-
-
-
-
-
+     compliment = input('Would you like a compliment? ')
+if compliment == 'no':   
+     print('Thank you for playing.')
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
@@ -66,13 +74,13 @@ Thank you for playing.
 '''
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
-
+5
 
 
 
 2. What was the hardest part of this lab?
 
-
+Trying to write the code for the compliments 
 
 
 
