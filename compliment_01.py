@@ -17,18 +17,18 @@
 compliment = input('Would you like a compliment? ')
 if compliment == 'yes':   
     print('You have wonderful eyes.')
-print('Thank you for playing.')
-
-compliment = input('Would you like a compliment? ')
-if compliment == 'y':   
     print('Thank you for playing.')
 
-compliment = input('Would you like a compliment? ')
-if compliment == 'Yes':   
-    print('Thank you for playing.')
+    compliment = input('Would you like a compliment? ')
+    if compliment == 'y':   
+     print('Thank you for playing.')
 
-compliment = input('Would you like a compliment? ')
-if compliment == 'no':   
+    compliment = input('Would you like a compliment? ')
+    if compliment == 'Yes':   
+        print('Thank you for playing.')
+
+    compliment = input('Would you like a compliment? ')
+    if compliment == 'no':   
      print('Thank you for playing.')
 
 ########### END YER CODE ABOVE THIS LINE ###########
